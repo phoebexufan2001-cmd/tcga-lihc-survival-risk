@@ -1,0 +1,13 @@
+{
+  "cohort_patients": 342,
+  "cohort_events": 123,
+  "train_patients": 239,
+  "test_patients": 103,
+  "selected_genes": 13,
+  "best_penalizer": 0.03,
+  "train_cindex": 0.7323498419388831,
+  "test_cindex": 0.7514606741573033,
+  "test_logrank_p": 0.023261589931948906,
+  "test_high_risk_patients": 49,
+  "test_low_risk_patients": 54
+}
